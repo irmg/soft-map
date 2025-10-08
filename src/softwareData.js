@@ -38,7 +38,7 @@ export const softwareList = [
     description: 'API开发和测试平台',
     url: 'https://www.postman.com/',
     category: '开发工具',
-    icon: 'https://www.postman.com/favicon.ico'
+    icon: 'https://identity-assets.getpostman.com/images/logo-postman.svg'
   },
   {
     id: 6,
@@ -154,11 +154,11 @@ export const softwareList = [
   },
   {
     id: 20,
-    name: 'Navicat',
+    name: 'Navicat Premium',
     description: '强大的数据库管理和开发工具',
     url: 'https://www.navicat.com.cn/',
     category: '开发工具',
-    icon: 'https://www.navicat.com.cn/favicon.ico'
+    icon: 'https://www.navicat.com.cn/images/favicon.ico'
   },
   {
     id: 21,
